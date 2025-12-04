@@ -167,3 +167,4 @@ docker-compose exec web python manage.py createsuperuser
 ```
 docker-compose exec web python manage.py shell
 ```
+# Примечание: Этот проект создан как тестовое задание и демонстрирует минимальную рабочую реализацию. В production среде потребуется дополнительная настройка безопасности, мониторинга и обработки ошибок.
